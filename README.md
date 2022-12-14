@@ -19,14 +19,6 @@ Esse projeto foi realizado para o desafio final da aceleração de C#
 
 ## Tecnologias utilizadas e tomada de decisão ✔️
 
-O projeto foi desenvolvido com a arquitetura MSC (Model, Service, Controller), possibilitando que as funções desempenhem um papel específico de acordo com sua camada.
-
-
-As tecnologias utilizadas foram as aprendidas até aqui como o JavaScript, NodeJS, ExpressJS e MySQL. Esta última foi optada, ao invés de um ORM, por dar maior controle na manipulação do banco de dados e permitir escrever as queries. Utilizando o MySQL, pude trabalhar tendo mais domínio das saídas esperadas pelo banco, além de possibilitar maior entendimento ao lidar com o banco de dados.
-
-Para realizar os testes foram utilizadas as bibliotecas aprendidas até aqui: Sinon, Mocha e Chai.
-
-Outras tecnologias utilizadas foram o JWT para fazer autenticação nas rotas e Swagger para documentar os endpoints.
 
 ## Instalação ✔️
 
