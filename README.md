@@ -57,8 +57,9 @@ Para rodar os testes, rode o seguinte comando
 ```bash
   dotnet test
 ```
+Os testes estão com `84%` de cobertura.
 
-<img src="https://user-images.githubusercontent.com/87737714/207664240-c07467d7-1427-4949-9d0c-df4dc3046698.png" width= "600">
+<img src="https://user-images.githubusercontent.com/87737714/207664240-c07467d7-1427-4949-9d0c-df4dc3046698.png" width= "900">
 
 ## [Deploy no Heroku]() ✔️
 
