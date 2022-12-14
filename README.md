@@ -80,11 +80,11 @@ Foi feita uma abordagem mais simples para lidar com o banco de dados. O foco foi
 
 
 #### Ações que o usuário pode realizar
-<img src="https://user-images.githubusercontent.com/87737714/207675050-18106f33-cb5f-442b-857c-c4682b73bbf0.png" width= "900">
+<img src="https://user-images.githubusercontent.com/87737714/207675050-18106f33-cb5f-442b-857c-c4682b73bbf0.png" width= "700">
 
 
 #### Relação das tabelas
-<img src="https://user-images.githubusercontent.com/87737714/207674846-dfe37096-5fae-4318-a2eb-47a52f7112e6.png" width= "900">
+<img src="https://user-images.githubusercontent.com/87737714/207674846-dfe37096-5fae-4318-a2eb-47a52f7112e6.png" width= "700">
 
 ## 3 Aprendizados
 - O debugger do Visual Studio é seu melhor amigo
