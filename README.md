@@ -1,4 +1,4 @@
-# API para aplicativo de rede social :chart_with_upwards_trend:
+# API para aplicativo de rede social 
 
 Esse projeto foi realizado para o desafio final da aceleração de C#
 
