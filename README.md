@@ -65,8 +65,6 @@ Assim é possível enviar requisições de POST, PUT, DELETE e acessar as rotas 
 
 
 
-Obs2: Selecione o servidor do deploy para que não ocorra erro de conexão com a rede.
-
 ## Diagramas ✔️
 Foi feita uma abordagem mais simples para lidar com o banco de dados. O foco foi listar as atividades que o usuário pode realizar em sua conta, bem como as ações que pode tomar para realizar determinada publicação.
 
