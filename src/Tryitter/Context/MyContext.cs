@@ -17,7 +17,7 @@ namespace Tryitter.Context
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=localhost\SQLEXPRESS;Database=tryitter;Trusted_Connection=True;Encrypt=False;");
+                optionsBuilder.UseSqlServer(@"Server=tcp:tryitter-project.database.windows.net,1433;Initial Catalog=tryitter-database;Persist Security Info=False;User ID=admleticia;Password=Senha123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             }
         }
     }
