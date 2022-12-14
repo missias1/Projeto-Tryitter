@@ -12,7 +12,7 @@ Esse projeto foi realizado para o desafio final da aceleração de C#
 - Instalação
 - Executando aplicação
 - Executando testes
-- Deploy no Heroku
+- Deploy no Azure
 - Documentação Swagger
 - Diagramas
 - 3 Aprendizados
@@ -61,7 +61,7 @@ Os testes estão com `84%` de cobertura.
 
 <img src="https://user-images.githubusercontent.com/87737714/207664240-c07467d7-1427-4949-9d0c-df4dc3046698.png" width= "900">
 
-## [Deploy no Heroku]() ✔️
+## [Deploy no Azure]() ✔️
 
 Para testar os endpoints, é necessário utilizar uma API Client como o [Insomnia](https://insomnia.rest/) ou [Postman](https://www.postman.com/). 
 
@@ -80,11 +80,13 @@ Foi feita uma abordagem mais simples para lidar com o banco de dados. O foco foi
 
 
 #### Ações que o usuário pode realizar
-<img src="" width= "800">
+<img src="![image](https://user-images.githubusercontent.com/87737714/207670451-86267047-f473-4a9f-9bcc-f4af5619ef79.png)
+" width= "800">
 
 
 #### Relação das tabelas
-<img src="" width= "800">
+<img src="![image](https://user-images.githubusercontent.com/87737714/207674282-fe4d5b69-6788-4be8-838e-a5cf148f491b.png)
+" width= "800">
 
 ## 3 Aprendizados
 - O debugger do Visual Studio é seu melhor amigo
