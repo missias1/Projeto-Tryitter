@@ -53,7 +53,7 @@ Os testes estão com `84%` de cobertura.
 
 <img src="https://user-images.githubusercontent.com/87737714/207664240-c07467d7-1427-4949-9d0c-df4dc3046698.png" width= "900">
 
-## [Deploy no Azure]() ✔️
+## [Deploy no Azure](https://tryitter-project.azurewebsites.net/) ✔️
 
 Para testar os endpoints, é necessário utilizar uma API Client como o [Insomnia](https://insomnia.rest/) ou [Postman](https://www.postman.com/). 
 
@@ -61,9 +61,9 @@ Assim é possível enviar requisições de POST, PUT, DELETE e acessar as rotas 
 
 <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" width= "100"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width= "100">
 
-## [Documentação com Swagger]() ✔️
+## [Documentação com Swagger](https://tryitter-project.azurewebsites.net/swagger/index.html) ✔️
 
-
+<img src="https://user-images.githubusercontent.com/87737714/207759800-b104c142-e04f-4304-bf27-6c5ab531bf65.png" width= "500">
 
 ## Diagramas ✔️
 Foi feita uma abordagem mais simples para lidar com o banco de dados. O foco foi listar as atividades que o usuário pode realizar em sua conta, bem como as ações que pode tomar para realizar determinada publicação.
