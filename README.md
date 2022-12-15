@@ -22,6 +22,7 @@ Esse projeto foi realizado para o desafio final da aceleração de C#. A api per
 O projeto foi desenvolvido com a arquitetura MSC (Model, Service, Controller), possibilitando que cada camada execute sua responsabilidade.
 
 As tecnologias utilizadas foram as aprendidas até aqui como o ASP .NET com C#, o ORM Entity Framework e o SQL Server.
+
 ![alt text](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![alt text](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![alt text](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 Para realizar os testes foram utilizadas as bibliotecas xUnit, FluentAssertions e pacote inMemory do Entity Framework para simular um banco de dados em execução.
