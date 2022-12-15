@@ -1,6 +1,6 @@
-# API para aplicativo de rede social 
+# API para aplicativo de rede social :baby_chick:
 
-Esse projeto foi realizado para o desafio final da aceleração de C#
+Esse projeto foi realizado para o desafio final da aceleração de C#. A api permite:
 
 - Listar informações da conta do cliente e dos posts
 - Realizar operações de postar, atualizar e deletar post
@@ -8,13 +8,27 @@ Esse projeto foi realizado para o desafio final da aceleração de C#
 - Ser utilizada para se comunicar com o front de um aplicativo de rede social
 
 ## Lista de conteúdo :page_facing_up:
+- Tecnologia e tomada de decisão
 - Instalação
 - Executando aplicação
-- Executando testes
+- Testes e Cobertura
 - Deploy no Azure
 - Documentação Swagger
 - Diagramas
 - 3 Aprendizados
+
+## Tecnologias utilizadas e tomada de decisão ✔️
+
+O projeto foi desenvolvido com a arquitetura MSC (Model, Service, Controller), possibilitando que cada camada execute sua responsabilidade.
+
+As tecnologias utilizadas foram as aprendidas até aqui como o ASP .NET com C#, o ORM Entity Framework e o SQL Server.
+![alt text](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![alt text](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![alt text](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+Para realizar os testes foram utilizadas as bibliotecas xUnit, FluentAssertions e pacote inMemory do Entity Framework para simular um banco de dados em execução.
+
+Outras tecnologias utilizadas foram o JWT para fazer autenticação nas rotas e a Azure para o deploy.
+
+![alt text](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![alt text](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## Instalação ✔️
 
@@ -38,7 +52,7 @@ Rode o comando abaixo para inicializar a aplicação.
   dotnet run
 ```
 
-## Executando os testes ✔️
+## Testes e Cobertura ✔️
 
 Para rodar os testes, rode o seguinte comando
 
@@ -51,6 +65,11 @@ Os testes estão com `84%` de cobertura.
 
 ## [Deploy no Azure](https://tryitter-project.azurewebsites.net/) ✔️
 
+Foi realizado o deploy da aplicação no Azure, utilizando o banco de dados Sql Server da Azure.
+
+```bash
+  https://tryitter-project.azurewebsites.net/
+```
 Para testar os endpoints, é necessário utilizar uma API Client como o [Insomnia](https://insomnia.rest/) ou [Postman](https://www.postman.com/). 
 
 Assim é possível enviar requisições de POST, PUT, DELETE e acessar as rotas que exigem autenticação.
@@ -59,9 +78,12 @@ Assim é possível enviar requisições de POST, PUT, DELETE e acessar as rotas 
 
 ## [Documentação com Swagger](https://tryitter-project.azurewebsites.net/swagger/index.html) ✔️
 
+É possível realizar as operações de CRUD por meio do Swagger:
+
 ```bash
   https://tryitter-project.azurewebsites.net/swagger/index.html
 ```
+
 <img src="https://user-images.githubusercontent.com/87737714/207759800-b104c142-e04f-4304-bf27-6c5ab531bf65.png" width= "500">
 
 ## Diagramas ✔️
