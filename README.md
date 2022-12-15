@@ -8,7 +8,6 @@ Esse projeto foi realizado para o desafio final da aceleração de C#
 - Ser utilizada para se comunicar com o front de um aplicativo de rede social
 
 ## Lista de conteúdo :page_facing_up:
-- Tecnologias Utilizadas e tomada de decisão
 - Instalação
 - Executando aplicação
 - Executando testes
@@ -16,9 +15,6 @@ Esse projeto foi realizado para o desafio final da aceleração de C#
 - Documentação Swagger
 - Diagramas
 - 3 Aprendizados
-
-## Tecnologias utilizadas e tomada de decisão ✔️
-
 
 ## Instalação ✔️
 
@@ -63,6 +59,9 @@ Assim é possível enviar requisições de POST, PUT, DELETE e acessar as rotas 
 
 ## [Documentação com Swagger](https://tryitter-project.azurewebsites.net/swagger/index.html) ✔️
 
+```bash
+  https://tryitter-project.azurewebsites.net/swagger/index.html
+```
 <img src="https://user-images.githubusercontent.com/87737714/207759800-b104c142-e04f-4304-bf27-6c5ab531bf65.png" width= "500">
 
 ## Diagramas ✔️
